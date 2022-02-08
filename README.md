@@ -1,5 +1,5 @@
 
-![Image of my journey](assets/images/my_journey.png)
+![Image of my journey](images/my_journey.png)
 
 An overview of my academic and work experiences
 
